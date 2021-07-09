@@ -27,7 +27,7 @@ I will also leave a WAV file so you can download a demo of how the music from th
 
 # Musical Background
 
-For those who might not no how my code works musically, I`ll live links to wikipedia articles about the topics relevant to this basic piece here:
+For those who don`t know how my code works musically, I`ll leave links to wikipedia articles about the topics relevant to this basic piece here:
 
 https://en.wikipedia.org/wiki/Twelve-bar_blues 
 
