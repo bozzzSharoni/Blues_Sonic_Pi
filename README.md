@@ -4,7 +4,7 @@
 
 # Background
 
-I play the guitar since the age of 9 and taught myself over the years also basic drumming, keyboards, and I also have basic knowledge of how to use DAWs such as Ableton live and Cubase.
+I play the guitar since the age of 9 and taught myself over the years also basic drumming, keyboards, and I also have basic knowledge of how to use DAWs such as Ableton Live and Cubase.
 
 Not so long ago(actually just 7 hours ago), I have discovered the idea of live coding and found it fascinating, especially because I discovered Sonic Pi.
 
