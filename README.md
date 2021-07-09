@@ -42,3 +42,5 @@ https://www.youtube.com/watch?v=G1m0aX9Lpts - Sam Aaron(the guy behind Sonic Pi)
 https://www.youtube.com/watch?v=TK1mBqKvIyU - Sam Aaron TEDx talk
 
 https://www.youtube.com/watch?v=OLLwG_SN8oo - Sam Aaron GOTOcon talk
+
+https://www.youtube.com/watch?v=yD4HPX8TdA8 - Sam Aaron and Ben Smith Jamming together with Sonic Pi and a Guitar
