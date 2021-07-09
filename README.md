@@ -18,7 +18,7 @@ I belive this kind of music making tools have a far greater potential than what 
 
 I find it sad that this form of art is not as popular yet as other forms of electronic music.
 
-One thing I didn`t utilized(yet), is the fact that in Sonic Pi you can actually go deeper than the western 12 tone system, and use microtonality in a pretty easy way.
+One thing I didn`t utilize(yet), is the fact that in Sonic Pi you can actually go deeper than the western 12 tone system, and use microtonality in a pretty easy way.
 
 I will leave at the end of this Readme file, links to more Sonic Pi material and also a link to a youtube page of a British musician named "Sevish" who trully tries to expand the limits
 of music with the new advantages that computer technology gives us.
